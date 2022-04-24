@@ -1,14 +1,25 @@
-bg-pink{
-    background-color: #e83e8c;
+body{
+    font-family: 'Roboto', sans-serif;
 }
-color-blanco{
+.bg-green{
+    background-color: #28A745;
+}
+.verde{
+    color: #28A745;
+}
+.color-blanco{
     color: white;
 }
 .centrado{
     text-align:center;
 }
-h1{
-    font-family: 'Roboto', sans-serif;
-    font-size: 20pt; 
+h1{    
+    font-weight: 300;
+    font: 300,roboto;
     color: #212529;
+}
+h2{ 
+    font-weight: 300;
+    font: 300,roboto;
+    color: #707070;    
 }
